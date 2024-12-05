@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "85246411854",
+    "project_id": "fir-adminsdk-62882",
+    "storage_bucket": "fir-adminsdk-62882.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:85246411854:android:ca7844697cded322b1af1f",
+        "android_client_info": {
+          "package_name": "com.example.loja_sostenible"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "85246411854-atp2kp7csmpn56vvk8hl68mq7jbfnu0f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDItozZZgxH_rKvr5RKleekalgHO3GI-nw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "85246411854-atp2kp7csmpn56vvk8hl68mq7jbfnu0f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
